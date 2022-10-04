@@ -14,9 +14,5 @@ Thank you for browsing!
 
 ## Original projects
 
-* Opal: A secure password manager for J2EE server.
-  * [Source Code](https://github.com/quinnshultz/opal/)
-  * [Builds](http://ci.quinnshultz.com/job/Opal/)
-
-* Bill's Backyard Bees: A simple ecommerce website built with Woocommerce.
-  * [Website](https://billsbackyardbees.com/)
+* BroncoDrome
+  * [Source Code](https://github.com/cs481-ekh/f22-kitty-cat-studios)
